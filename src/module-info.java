@@ -1,0 +1,2 @@
+module ChainOfResponsibility {
+}
